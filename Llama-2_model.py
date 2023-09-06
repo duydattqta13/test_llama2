@@ -41,9 +41,9 @@ for line in lines:
     explanation = ' '.join(descriptions)
 
     # Tạo một prompt bằng cách kết hợp key và đoạn văn diễn giải
-    prompt = f"Tôi là một nhân viên báo cáo tài chính về tình hình doanh thu các đơn vị {key}. \
-            bạn hãy giúp tôi mô tả chi tiết bằng tiếng việt {explanation} dùng các liên từ chứ \
-            không làm mất nội dung mô tả"
+    prompt = f"Tôi là một nhân viên báo cáo tài chính về tình hình doanh thu các đơn vị. \
+            bạn hãy giúp tôi mô tả chi tiết bằng tiếng việt dùng các liên từ chứ \
+            không làm mất nội dung mô tả {key} {explanation}"
 
     # Sử dụng model Llama-2 để tạo câu trả lời
     sequences = pipeline(
