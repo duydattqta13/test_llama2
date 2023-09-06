@@ -1,0 +1,9 @@
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.10s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.62s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.99s/it]
+/home/cybersp/voice/miniconda3/envs/llama/lib/python3.10/site-packages/transformers/generation/utils.py:1268: UserWarning: Input length of input_ids is 211, but `max_length` is set to 200. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+  warnings.warn(
+/home/cybersp/voice/miniconda3/envs/llama/lib/python3.10/site-packages/transformers/generation/utils.py:1268: UserWarning: Input length of input_ids is 291, but `max_length` is set to 200. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+  warnings.warn(
+Result for key 'STL': Tôi là một nhân viên báo cáo tài chính về tình hình doanh thu các đơn vị STL.             bạn hãy giúp tôi mô tả chi tiết bằng tiếng việt Tốc độ tăng trưởng của STL giảm trong 5 tháng liên tiếp.(Tháng 5 tăng 1.612 %, Tháng 6 tăng 1.719 %, Tháng 7 tăng 0.047 %, Tháng 8 tăng 3.944 %, ).  dùng các liên từ chứ             không làm mất nội dung mô tả.
+Result for key 'VTP': Tôi là một nhân viên báo cáo tài chính về tình hình doanh thu các đơn vị VTP.             bạn hãy giúp tôi mô tả chi tiết bằng tiếng việt VTP chỉ hoàn thành 92.3% kế hoạch ngày, trong đó có 14 ngày liên tiếp không hoàn thành KH ngày.
+ Doanh thu dịch vụ của VTP giảm 2.2% so với cùng kì năm.
+ Tốc độ tăng trưởng của VTP giảm trong 4 tháng liên tiếp.(Tháng 3 tăng 1.958 %, Tháng 4 tăng 0.732 %, Tháng 5 tăng 4.577 %, ).  dùng các liên từ chứ             không làm mất nội dung mô tả.
